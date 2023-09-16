@@ -1,3 +1,4 @@
+library/
 *.FASL
 *.fasl
 *.lisp-temp
